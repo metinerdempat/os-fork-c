@@ -21,7 +21,7 @@ void introduction()
         "Computer Science",
         1,
         "************",
-        "Serap Bağdaş"};
+        "Serap Beğdaş"};
 
     printf("Homework: \n%s %s\n%s\n%s\n%d. grade\nNo: %s \nTeacher: %s\n \n", person.name, person.surname, person.schoolName, person.department, person.grade, person.schoolNumber, person.teacher);
 }
